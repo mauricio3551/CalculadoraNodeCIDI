@@ -1,0 +1,19 @@
+{
+  "name": "calculadoracidi",
+  "version": "1.0.0",
+  "description": "Proyecto Parcial 3 Ing Software 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricio3551/CalculadoraNodeCIDI.git"
+  },
+  "author": "Mauricio Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauricio3551/CalculadoraNodeCIDI/issues"
+  },
+  "homepage": "https://github.com/mauricio3551/CalculadoraNodeCIDI#readme"
+}
